@@ -1,4 +1,4 @@
-# Speech Emotion Recognition from Audio
+# Speech Emotion Recognition
 This project aims to recognize emotions from audio files using machine learning algorithms. The dataset used is the Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS).
 
 
